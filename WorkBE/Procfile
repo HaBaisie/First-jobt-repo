@@ -1,0 +1,1 @@
+web: gunicorn workbe.wsgi --log-file -
