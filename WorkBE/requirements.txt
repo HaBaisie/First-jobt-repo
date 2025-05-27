@@ -10,3 +10,4 @@ typing_extensions==4.13.2
 django-cleanup
 drf-yasg
 whitenoise
+gunicorn
